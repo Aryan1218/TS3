@@ -1,2 +1,1 @@
-# TS3
-TS3
+# TowerSiege-1
